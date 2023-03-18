@@ -7,7 +7,8 @@ The .xlsx is my index from reading the Sybex and Pearson Vue Project+ books. Syb
 
 The .docx is my notes in bullet point form with some charts that you need to know for the exam.
 
-The PDF is someone else's notes I got from Reddit or Google. I didn't really use them msyelf, but if they help you then great.
+The PDF is someone else's notes I got from Reddit or Google. I didn't really use them myself, but if they help you then great.
 
 Good luck! You got this.
+
 Study well my friends.
